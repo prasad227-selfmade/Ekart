@@ -1,4 +1,4 @@
-FROM alpine:3.18.4
+FROM openjdk:8u151-jdk-alpine3.7
 
 EXPOSE 8070
 
